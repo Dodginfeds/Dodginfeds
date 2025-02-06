@@ -20,6 +20,8 @@ Here are some of the skills and tools I’ve gained so far:
 ### 💻 **Coding Languages**
 - **Python**
 - **Object-Oriented Programming (OOP)**
+- **HTML**
+- **CSS**
 
 ### 🎯 **General Skills**
 - Communication  
