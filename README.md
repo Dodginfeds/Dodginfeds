@@ -1,13 +1,57 @@
-- 👋 Hi, My name is Nazir, and I'm a sophomore Computer Science major!
-- 👀 I’m interested in alot more than just Computer Science. I have a newfound passion for product design (3d modeling as well as printing), Graphic Design, architecture, Production, Video editing, and much more!
-- 🌱 I’m currently learning a couple of things at once.
--   I want to be a more efficient programmer, but I am still learning the basics of Python.
-I'm also learning to 3D model. I've turned some projects into physical products, and I'm always happy with the results!
--   I'm learning how to work on cars on my own time, as well as video production and graphic design!
-- It can be essential to have multiple different interests to keep yourself motivated and serve the purpose of being well-rounded!
-- I’m looking to collaborate on absolutely anything! I love learning new things and challenges and overcoming them even more!
-  
-<!---
-Dodginfeds/Dodginfeds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Welcome to My GitHub Profile!
+
+## 🌟 About Me
+Hi there! I'm **Nazir Lopez**, a 21-year-old **Computer Science** sophomore currently studying at a **community college**. I’m passionate about learning and constantly expanding my skill set to become a well-rounded individual. While my academic focus is in Computer Science, I’ve developed a newfound interest in various other fields, including:
+
+- 🎨 **Product Design** (3D modeling and printing)
+- ✏️ **Graphic Design**
+- 🏗️ **Architecture**
+- 🎥 **Video Editing**
+- 🎬 **Production**
+- ... and so much more!
+
+My goal is to merge my technical expertise with creativity to make meaningful contributions in diverse domains.
+
+---
+
+## 🛠️ Skills
+Here are some of the skills and tools I’ve gained so far:
+
+### 💻 **Coding Languages**
+- **Python**
+- **Object-Oriented Programming (OOP)**
+
+### 🎯 **General Skills**
+- Communication  
+- Compliance  
+- Customer Service  
+- Inventory Management  
+- Organizational Skills  
+- Multitasking  
+- Time Management  
+- Safety and Self-Regulation  
+- Shipping  
+- Payments  
+- Teamwork  
+
+### ⚙️ **Technical Skills**
+- Analytical Thinking  
+- Distribution Management  
+- Protocols  
+- Espresso Machine Operation (Fun skill!)  
+- Articulate Presentation  
+- Closing Operations  
+
+---
+
+## 📬 Contact Me
+Feel free to reach out or explore my work further:
+
+- [GitHub Profile](https://github.com/dodginfeds)
+
+---
+
+## 🌱 Always Growing
+I'm driven by curiosity and my desire to combine technical skills with creative endeavors. Whether it's coding, designing, or building something new, I’m excited to grow and learn. Follow my journey as I explore the intersection of **technology** and **creativity**!
+
+Let’s create something amazing together! 🚀
